@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img align="middle" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
+  <img align="middle" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer" alt="Typing SVG" />
 </p>
 <br>
 
