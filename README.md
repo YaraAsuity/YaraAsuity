@@ -15,10 +15,10 @@ I'm a passionate Computer Science student from Egypt, with a focus on Android ap
 - 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height="150"/>
 </div>
 
-## Connect with me:
+## 📫 Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/yara-asuity-a77217250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/Yara Asuity" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yara.assuity?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yara.assuity/" height="30" width="40" /></a>
