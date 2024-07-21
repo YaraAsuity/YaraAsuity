@@ -15,7 +15,7 @@ I'm a passionate Computer Science student from Egypt, with a focus on Android ap
 - 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height="150"/>
 </div>
 
 ## Connect with me:
