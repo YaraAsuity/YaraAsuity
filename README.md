@@ -2,9 +2,14 @@
 
 
 
+
+
 <p align="middle">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
 </p>
+
+
+
 
 ## 👨‍💻 About Me
 
