@@ -4,6 +4,8 @@
 <p align="middle">
   <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
 </p>
+<br>
+
 
 <h3 align="left">👨‍💻 About Me</h3>
 
