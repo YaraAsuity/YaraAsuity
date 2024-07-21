@@ -5,14 +5,12 @@
   <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
 </p>
 
-
-
-
-## 👨‍💻 About Me
+<h3 align="left">👨‍💻 About Me</h3>
 
 I'm a passionate Computer Science student from Egypt, with a focus on Android app development. My expertise in algorithms and data structures, honed through competitive programming, equips me to build efficient and innovative mobile applications. I am passionate about applying my skills to real-world challenges and eager to explore new technologies and opportunities in the dynamic field of mobile development.
 
 - 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
+
 
 ## GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" height="150"/>
