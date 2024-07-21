@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yara Asuity </h1>
-<h3 align="center">Android developer from Egypt</h3>
+# 👋 Hello, I'm Yara Asuity 
 
-- 📫 How to reach me **yaraassuity@gmail.com**
+
+
+<p align="middle">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
+</p>
+
+## 👨‍💻 About Me
+
+I'm a passionate Computer Science student from Egypt, with a focus on Android app development. My expertise in algorithms and data structures, honed through competitive programming, equips me to build efficient and innovative mobile applications. I am passionate about applying my skills to real-world challenges and eager to explore new technologies and opportunities in the dynamic field of mobile development.
+
+- 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
 
 
 <h3 align="left">Connect with me:</h3>
