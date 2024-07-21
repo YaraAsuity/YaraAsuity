@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Yara Asuity 
 <br>
 
-<p align="middle">
-  <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
+<p align="center">
+  <img align="middle" src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Mobile Application Developer;Continuous+Learner" alt="Typing SVG" />
 </p>
 <br>
 
