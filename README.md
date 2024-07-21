@@ -13,15 +13,12 @@
 I'm a passionate Computer Science student from Egypt, with a focus on Android app development. My expertise in algorithms and data structures, honed through competitive programming, equips me to build efficient and innovative mobile applications. I am passionate about applying my skills to real-world challenges and eager to explore new technologies and opportunities in the dynamic field of mobile development.
 
 - 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
-<br>
+
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraAsuity&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 </div>
-<br>
 
-
-<br>
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/yara-asuity-a77217250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/Yara Asuity" height="30" width="40" /></a>
 <a href="https://www.facebook.com/yara.assuity?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yara.assuity/" height="30" width="40" /></a>
