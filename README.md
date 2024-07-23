@@ -11,7 +11,7 @@
 
 I'm a passionate Computer Science student from Egypt, with a focus on Android app development. My expertise in algorithms and data structures, honed through competitive programming, equips me to build efficient and innovative mobile applications. I am passionate about applying my skills to real-world challenges and eager to explore new technologies and opportunities in the dynamic field of mobile development.
 
-- 🎓 Studying Computer Science at Ahram Canadian University (ACU), Cairo
+- 🎓 Studying Computer Science at Ahram Canadian University (ACU)
 
 
 ## GitHub Stats
